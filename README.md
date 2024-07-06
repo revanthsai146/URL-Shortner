@@ -34,7 +34,7 @@ Apache Commons Lang: Library for generating random strings.
 Getting Started
 
 **Clone the Repository:**
-git clone https://github.com/revanthsai146/URL-Shortener.git
+git clone https://github.com/revanthsai146/URL-Shortner.git
 cd url-shortener
 Configure Database:
 Set up PostgreSQL and configure database settings in application.properties.
