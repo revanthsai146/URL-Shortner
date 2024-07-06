@@ -5,9 +5,13 @@ This project is a URL shortening service designed to generate shortened, unique 
 **Features**
 
 **Shorten URL:** Given a long URL, the service generates a shorter and unique alias.
+
 **Update URL:** Allows updating the destination URL associated with a short URL.
+
 **Redirect:** Users are redirected to the original long URL when they visit the short URL.
+
 **Expiry:** Shortened URLs expire after 10 months by default.
+
 **High Availability:** The system is designed to be highly available to ensure minimal downtime and reliable URL redirection.
 
 **Security:** Shortened URLs are designed to be unpredictable to enhance security.
