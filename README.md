@@ -31,7 +31,7 @@ This project is a URL shortening service designed to generate shortened, unique 
 - **Clone the Repository:**
   ```bash
   git clone https://github.com/revanthsai146/URL-Shortner.git
-  cd URL-shortener
+  cd URL-Shortener
 
 - **Configure Database:**
 Set up PostgreSQL and configure database settings in application.properties.
