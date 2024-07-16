@@ -17,30 +17,32 @@ This project is a URL shortening service designed to generate shortened, unique 
 **Security:** Shortened URLs are designed to be unpredictable to enhance security.
 
 **API Endpoints:**
-POST /shorten: Shorten a URL.
-POST /update: Update the destination URL for a short URL.
-GET /{shortUrl}: Redirect to the original URL associated with the short URL.
-POST /update_expiry: Update the expiry duration of a short URL.
-Technologies Used
+-POST /shorten: Shorten a URL.
+-POST /update: Update the destination URL for a short URL.
+-GET /{shortUrl}: Redirect to the original URL associated with the short URL.
+-POST /update_expiry: Update the expiry duration of a short URL.
+**Technologies Used**
 
 **Java:** Backend development using Java.
 
 **Spring Boot:** Framework for creating web applications.
 
 **MySQL:** Database management system for storing URLs.
-Apache Commons Lang: Library for generating random strings.
+-Apache Commons Lang: Library for generating random strings.
 
 **JUnit:** Unit testing framework for Java.
 Getting Started
 
 **Clone the Repository:**
-git clone https://github.com/revanthsai146/URL-Shortner.git
+-git clone https://github.com/revanthsai146/URL-Shortner.git
 
-cd url-shortener
+-cd url-shortener
 
 Configure Database:
 
-Set up PostgreSQL and configure database settings in application.properties.
+-Set up PostgreSQL and configure database settings in application.properties.
+**Run Spring Boot Application**
+-mvn clean install
 
 **Build and Run:**
 ./mvnw spring-boot:run or mvn spring-boot:run
