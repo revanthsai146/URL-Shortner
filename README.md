@@ -37,7 +37,8 @@ This project is a URL shortening service designed to generate shortened, unique 
 Set up PostgreSQL and configure database settings in application.properties.
 
 - **Build and Run:**
-mvn spring-boot:run
+  ```bash
+  mvn spring-boot:run
 
 - **API Usage:**
 Use tools like Postman or cURL to interact with the API endpoints.
