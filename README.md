@@ -35,8 +35,11 @@ Getting Started
 
 **Clone the Repository:**
 git clone https://github.com/revanthsai146/URL-Shortner.git
+
 cd url-shortener
+
 Configure Database:
+
 Set up PostgreSQL and configure database settings in application.properties.
 
 **Build and Run:**
