@@ -29,16 +29,22 @@ This project is a URL shortening service designed to generate shortened, unique 
 ## **Getting Started**
 
 - **Clone the Repository:**
+
   ```bash
   git clone https://github.com/revanthsai146/URL-Shortner.git
   cd URL-Shortner
 
+  ```
+
 - **Configure Database:**
-Set up PostgreSQL and configure database settings in application.properties.
+  Set up PostgreSQL and configure database settings in application.properties.
 
 - **Build and Run:**
+
   ```bash
   mvn spring-boot:run
 
+  ```
+
 - **API Usage:**
-Use tools like Postman or cURL to interact with the API endpoints.
+  Use tools like Postman or cURL to interact with the API endpoints.
