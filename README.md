@@ -47,4 +47,4 @@ This project is a URL shortening service designed to generate shortened, unique 
   ```
 
 - **API Usage:**
-  Use tools like Postman or cURL to interact with the API endpoints.
+  Use tools like Postman or CURL to interact with the API endpoints.
