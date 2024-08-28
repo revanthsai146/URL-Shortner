@@ -34,7 +34,7 @@ This project is a URL shortening service designed to generate shortened, unique 
   cd url-shortener
 
 - **Configure Database:**
-Set up PostgreSQL and configure database settings in application.properties.
+Set up MySQL and configure database settings in application.properties.
 
 - **Build and Run:**
  mvn spring-boot:run
